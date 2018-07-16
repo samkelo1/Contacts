@@ -1,0 +1,112 @@
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\csc.exe
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\vbc.exe
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\ContactsList.MVC.dll.config
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\ContactsList.MVC.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\ContactsList.MVC.pdb
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.Azure.AppService.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Net.Http.Extensions.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Net.Http.Primitives.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Helpers.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Mvc.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Optimization.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Razor.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.WebPages.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\WebGrease.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.Azure.AppService.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Net.Http.Extensions.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Net.Http.Primitives.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Helpers.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Mvc.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Optimization.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.Razor.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.WebPages.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\obj\Debug\ContactsList.MVC.csproj.App.config
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\obj\Debug\ContactsList.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\obj\Debug\ContactsList.MVC.dll
+C:\Users\Nomndayi\Documents\Visual Studio 2015\Projects\app-service-api-dotnet-contact-list-master\src\ContactsList.MVC\obj\Debug\ContactsList.MVC.pdb
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\csc.exe
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\vbc.exe
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\ContactsList.MVC.dll.config
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\ContactsList.MVC.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\ContactsList.MVC.pdb
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.Azure.AppService.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Net.Http.Extensions.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Net.Http.Primitives.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Helpers.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Mvc.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Optimization.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Razor.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.WebPages.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\WebGrease.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.Azure.AppService.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Net.Http.Extensions.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Net.Http.Primitives.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Helpers.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Mvc.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Optimization.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.Razor.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.WebPages.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\obj\Debug\ContactsList.MVC.csproj.App.config
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\obj\Debug\ContactsList.MVC.csprojAssemblyReference.cache
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\obj\Debug\ContactsList.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\obj\Debug\ContactsList.MVC.csproj.CopyComplete
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\obj\Debug\ContactsList.MVC.dll
+C:\Users\Samkelo Ngubo\Desktop\Assets\ContactApi\ContactsList.MVC\obj\Debug\ContactsList.MVC.pdb
