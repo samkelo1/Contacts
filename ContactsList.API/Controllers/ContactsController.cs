@@ -50,9 +50,10 @@ namespace ContactsList.API.Controllers
             if (contacts == null)
             {
                 contacts = await _storage.Save(new Contact[]{
-                        new Contact { Id = 1, EmailAddress = "barney@contoso.com", Name = "Barney Poland"},
-                        new Contact { Id = 2, EmailAddress = "lacy@contoso.com", Name = "Lacy Barrera"},
-                        new Contact { Id = 3, EmailAddress = "lora@microsoft.com", Name = "Lora Riggs"}
+                        new Contact { Id = 1, EmailAddress = "barneyz@gmail.com", Name = "Barney zain"},
+                        new Contact { Id = 2, EmailAddress = "lacyk@ymail.com", Name = "Lacy kane"},
+                        new Contact { Id = 3, EmailAddress = "lorad@yahoo.com", Name = "Lora dam"},
+                        new Contact { id = 4, EmailAddress ="samking@yahoo.com",Name ="Sam King"}
                     }
                 , FILENAME);
 
